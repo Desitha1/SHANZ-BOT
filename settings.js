@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94725292890']
-global.premium = ['94725292890']
-global.ownernomer = '94725292890'
-global.ownername = '么° 🄼 SHANZ 🥀 | ❤️'
+global.owner = ['94714649769']
+global.premium = ['94714649769']
+global.ownernomer = '94714649769'
+global.ownername = '🅼『_D̶E̶S̶H̶_』亗'
 global.botname = 'SHANZ-BOT'
-global.footer = '©MRSHANZ.'
+global.footer = '©MRDESH.'
 global.ig = 'https://pin.it/7ln105o'
-global.region = 'Kandy,Sri lanka'
+global.region = 'Colombo,Sri lanka'
 global.sc = 'https://chat.whatsapp.com/IdiOlEAsYiNFZ8Y4lXMYqe'
 global.myweb = 'https://youtube.com/channel/UCX9GuKbYYWJ80O3Kymkn3Uw'
-global.packname = 'SHANZ-BOT STICKERS\n\n\n\n\n\n\n\n '
-global.author = 'Mr SHANZ ツ'
+global.packname = 'DESH-BOT STICKERS\n\n\n\n\n\n\n\n '
+global.author = 'Mr DESH ツ'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '🦄'
