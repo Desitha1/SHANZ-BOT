@@ -19,9 +19,9 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94714649769']
-global.premium = ['94714649769']
-global.ownernomer = '94714649769'
+global.owner = ['94726662843']
+global.premium = ['94726662843']
+global.ownernomer = '94726662843'
 global.ownername = '么° 🄼 DESH 🥀 | ❤️'
 global.botname = 'DESH-BOT'
 global.footer = '©MRDESH.'
