@@ -1,7 +1,7 @@
 {
-  "name": "SHANZ-BOT",
+  "name": "DESH-BOT",
   "description": "whatsapp md bot build with nodejs",
-  "repository": "https://github.com/Itsme-shan/SHANZ-BOT",
+  "repository": "https://github.com/Desitha1/SHANZ-BOT",
   "logo": "https://telegra.ph/file/da54e711f23c43204a9b7.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
   "buildpacks": [

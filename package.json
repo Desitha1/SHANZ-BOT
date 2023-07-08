@@ -1,5 +1,5 @@
 {
-  "name": "SHANZ-BOT",
+  "name": "DESH-BOT",
   "version": "2.0.0",
   "description": "WhatsApp Using Lib Baileys Multi Device",
   "main": "index.js",
@@ -11,8 +11,8 @@
     "termux",
     "whatsapp",
     "2022",
-    "shanzbot",
-    "shanz",
+    "deshbot",
+    "desh",
     "baileys-md",
     "bot",
     "bot-md",
